@@ -22,8 +22,8 @@ Also uploaded the data file
 This entire folder contains:
 
 1. R script file for text classification on SMS Spam Collection Data set. <br>
-2. "Runs" folder -> cloudml_2019_03_10_050100333 project folder -> tfruns.d folder -> view.html
-	to view the report run on Google cloud <br>
+2. "Runs" folder -> cloudml_2019_03_10_050100333 project folder -> tfruns.d folder -> view.html to view the report run on Google cloud <br>
+3. Dataset <br>
 
 Download the data set and and add appropriate path to retrieve from there in the code.<br>
 The libraries are to be installed first locally in R studio after which google cloud platform needs to be initiated and then the code can executed using cloudml_train() command.<br>
