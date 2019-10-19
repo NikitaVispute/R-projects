@@ -25,4 +25,8 @@ This entire folder contains:
 2. "Runs" folder -> cloudml_2019_03_10_050100333 project folder -> tfruns.d folder -> view.html
 	to view the report run on Google cloud <br>
 
+Download the data set and and add appropriate path to retrieve from there in the code.<br>
+The libraries are to be installed first locally in R studio after which google cloud platform needs to be initiated and then the code can executed using cloudml_train() command.<br>
+The location of the code must be the same as the working directory in R studio.<br>
+
 The entire code along with the five models compiles and run and produce an output succesfully, although only the last one is seen in the SUMMARY tab.<br>
