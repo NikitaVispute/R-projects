@@ -7,6 +7,9 @@ Technology: R <br>
 Dataset:<br>
 Original datasets link:<br>
 https://www.kaggle.com/c/instacart-market-basket-analysis/overview<br>
+1.
+2.
+3.
 
 Steps:<br>
 Free to choose min support, confidence, lift values<br>
@@ -18,14 +21,13 @@ Free to choose min support, confidence, lift values<br>
 This folder contains<br>
 1. Report<br>
 2. R code<br>
-3. Data<br>
 
-The datasets have been uploaded in original datasets folder.Path must be changed accordingly in the code.<br>
+The original datasets have been downloaded from the link and read into the code. Path must be changed accordingly in the code.<br>
 Newly created merged datasets were first written into a file in a local location and then pushed onto the UTD personal website. <br>
 These new datasets are directly read into the R code from the UTD personal website.<br>
-These new datasets have also been uploaded to the Data folder as <br>
-1. TransactionData-market_basket_transactions zipped folder<br>
-2. TransactionData1-market_basket_transactions1 zipped folder<br>
+These new datasets were named as following in the code <br>
+1. market_basket_transactions zipped folder<br>
+2. market_basket_transactions1 zipped folder<br>
 
 Path must be changed accordingly in the code at the appropriate lines to retrieve the new data into the code.<br>
 
