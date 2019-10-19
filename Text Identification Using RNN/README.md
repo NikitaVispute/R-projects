@@ -21,6 +21,7 @@ This entire folder contains:<br>
 1. R script file for text classification Project (BBC Text Challenge Data set)<br>
 2. cloudml_2019_04_02_041306029 project folder -> tfruns.d folder -> view.html to view the report run on Google cloud<br>
 3. Report file<br>
+4. Dataset zip folder <br>
 
 Download the data set and and add appropriate path to retrieve from there in the code.<br>
 The first entry in the parameter testing and tuning table of the report file, model3 in the code, is seen in the SUMMARY tab of the view.html page.<br>
