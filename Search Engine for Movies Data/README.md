@@ -1,4 +1,4 @@
-# Search Engine For Movies Dataset:
+# Search Engine For Movies Dataset
 
 Technology: R<br>
 •	Pre-processed the movie summary dataset from Carnegie Movie Summary Corpus and built a search engine for the data using the tf-idf technique by MapReduce for each document pair. The query is of two types: single term or multiple terms and this would display the appropriate movies when entered in the search engine.<br>
