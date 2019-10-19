@@ -26,6 +26,7 @@ These new datasets are directly read into the R code from the UTD personal websi
 These new datasets have also been uploaded to the Data folder as <br>
 1. TransactionData-market_basket_transactions zipped folder<br>
 2. TransactionData1-market_basket_transactions1 zipped folder<br>
+
 Path must be changed accordingly in the code at the appropriate lines to retrieve the new data into the code.<br>
 
 Report contains detailed explanation and plots and output for each of the 4 steps.<br>
