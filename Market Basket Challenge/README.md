@@ -7,9 +7,9 @@ Technology: R <br>
 Dataset:<br>
 Original datasets link:<br>
 https://www.kaggle.com/c/instacart-market-basket-analysis/overview<br>
-1.
-2.
-3.
+1. order_products__prior.csv<br>
+2. products.csv<br>
+3. departments.csv<br>
 
 Steps:<br>
 Free to choose min support, confidence, lift values<br>
