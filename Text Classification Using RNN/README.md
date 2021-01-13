@@ -1,8 +1,8 @@
 # Text Classification Using RNN on UCI Text dataset
 
-Technology: R <br>
+**Technology: R <br>
 • Pre-processed the SMS Spam Collection dataset obtained from UCI Repository by removing stop words, punctuations, white spaces, split the dataset into train and test and vectorized it. <br>
-• Applied deep learning models (RNN) with varying parameters (#input layers, hidden layers, activation function, optimizers, #epochs, batch-size)  to the train set and then tested the model’s performance on the test set based on its accuracy. <br>
+• Applied deep learning models (RNN) with varying parameters (#input layers, hidden layers, activation function, optimizers, #epochs, batch-size)  to the train set and then tested the model’s performance on the test set based on its accuracy. <br>**
 
 Steps<br>
 
