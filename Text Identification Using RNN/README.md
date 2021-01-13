@@ -1,7 +1,7 @@
 # Text Classification and Identification on BBC Text Dataset (Kaggle)
-Technology: R<br>
+**Technology: R<br>
 •	Pre-processed the BBC text classification challenge dataset from Kaggle and build a deep learning neural network model (RNN) to fit the dataset and then test it on the test dataset.<br>
-•	Varied the parameters of the model to improve the performance and rendered the results of the best model based on the accuracy and plots.<br>
+•	Varied the parameters of the model to improve the performance and rendered the results of the best model based on the accuracy and plots.<br>**
 
 Dataset:<br>
 BBC text classification challenge<br>
