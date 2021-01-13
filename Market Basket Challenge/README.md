@@ -1,8 +1,8 @@
 # Market Basket Challenge (Kaggle)
 
-Technology: R <br>
-•	Pre-processed the datasets obtained from Kaggle and generated valuable data and plots for frequent item-sets of customer orders and useful association rules by using apriori algorithm.<br>
-•	This helped in identifying relationships between items that people buy in frequently.<br>
+**Technology: R ** <br>
+•	**Pre-processed the datasets obtained from Kaggle and generated valuable data and plots for frequent item-sets of customer orders and useful association rules by using apriori algorithm. **<br>
+•	**This helped in identifying relationships between items that people buy in frequently.**<br>
 
 Dataset:<br>
 Original datasets link:<br>
