@@ -3,10 +3,10 @@
 Dataset:<br>
 https://www.kaggle.com/c/dogs-vs-cats/data<br>
 
-Technology: R, Keras<br>
+**Technology: R, Keras<br>
 •	Built a CNN model with keras package after pre-processing the ‘dogs and cats’ dataset from Kaggle. <br>
 •	Changed various parameters of the model to improve the performance based on train and test accuracy. <br>
-•	Also rendered the images on Google Cloud with their true and predicted labels and plots of their accuracies.<br>
+•	Also rendered the images on Google Cloud with their true and predicted labels and plots of their accuracies.<br>**
 
 Steps:<br>
 1. Download the images and split them in the ratio 80:20 for training and test parts. <br>
