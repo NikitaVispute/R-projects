@@ -1,7 +1,8 @@
 # Search Engine For Movies Dataset
 
-Technology: R<br>
-•	Pre-processed the movie summary dataset from Carnegie Movie Summary Corpus and built a search engine for the data using the tf-idf technique by MapReduce for each document pair. The query is of two types: single term or multiple terms and this would display the appropriate movies when entered in the search engine.<br>
+**Technology: R**<br>
+
+**Pre-processed the movie summary dataset from Carnegie Movie Summary Corpus and built a search engine for the data using the tf-idf technique by MapReduce for each document pair. The query is of two types: single term or multiple terms and this would display the appropriate movies when entered in the search engine.**<br>
 
 Steps:<br>
 1. For this project, worked with a dataset of movie plot summaries that is available from the Carnegie Movie Summary Corpus site: http://www.cs.cmu.edu/~ark/personas/. Downloaded the version “Dataset [46 M]”.<br>
